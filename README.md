@@ -2,7 +2,7 @@
 
 Numpy was used to get some meaningul insights from terrorismData.csv.
 
-All the problem statements answered are shown below
+All the problem statements shown below are answered
 
 - Problem Statement 1: Find the number of attack held between day 10 and day 20?(ignoring the year and month)(including both day).
 
